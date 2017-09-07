@@ -33,7 +33,7 @@ Batch Normalization, Layer Normalization
 > 1. https://theneuralperspective.com/2016/10/27/gradient-topics/
 > 2. http://sanghyukchun.github.io/88/
 
-Generative Adversarial Network(GAN)
+Generative Adversarial Nets
 -----------------------------------
 > ##### https://github.com/hindupuravinash/the-gan-zoo
 
