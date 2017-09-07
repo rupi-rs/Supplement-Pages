@@ -29,14 +29,18 @@ Softmax and Cross Entropy
 > ##### http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/
 
 Batch Normalization, Layer Normalization
+----------------------------------------
 > 1. https://theneuralperspective.com/2016/10/27/gradient-topics/
 > 2. http://sanghyukchun.github.io/88/
 
 Generative Adversarial Network(GAN)
+-----------------------------------
 > ##### https://github.com/hindupuravinash/the-gan-zoo
 
 Optimzer
+--------
 > ##### http://ruder.io/optimizing-gradient-descent/index.html
 
 Tensorflow install
+------------------
 > ##### http://ejklike.github.io/2017/03/06/install-tensorflow1.0-on-ubuntu16.04-1.html
