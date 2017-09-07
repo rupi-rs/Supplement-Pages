@@ -44,3 +44,7 @@ Optimzer
 Tensorflow install
 ------------------
 > ##### http://ejklike.github.io/2017/03/06/install-tensorflow1.0-on-ubuntu16.04-1.html
+
+Github
+------
+> ##### https://nolboo.kim/blog/2013/10/06/github-for-beginner/
