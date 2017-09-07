@@ -1,7 +1,8 @@
 # Supplement-Pages
 Supplement pages about machine learning 
 
-## Neural networks and deep learning
+Neural networks and deep learning
+---------------------------------
 > ##### http://neuralnetworksanddeeplearning.com/ - Michael Neilsen
 >> ###### chapter1. Standard neural network : http://neuralnetworksanddeeplearning.com/chap1.html
 >> ###### chapter2. Backpropagation : http://neuralnetworksanddeeplearning.com/chap2.html
