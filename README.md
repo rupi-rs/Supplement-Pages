@@ -41,6 +41,12 @@ Generative Adversarial Nets
 >> 2. http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 >> 3. https://vincentherrmann.github.io/blog/wasserstein/
 
+Convolution
+-----------
+> 1. Convolution Arithmetic : https://arxiv.org/abs/1603.07285
+> 2. https://github.com/vdumoulin/conv_arithmetic
+> 3. Padding : https://stackoverflow.com/questions/37674306/what-is-the-difference-between-same-and-valid-padding-in-tf-nn-max-pool-of-t
+
 Optimzer
 --------
 > ##### http://ruder.io/optimizing-gradient-descent/index.html
