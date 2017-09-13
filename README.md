@@ -1,5 +1,5 @@
 # Supplement-Pages
-Supplement pages about machine learning 
+Supplement pages
 
 Neural networks and deep learning
 ---------------------------------
