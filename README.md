@@ -36,6 +36,10 @@ Batch Normalization, Layer Normalization
 Generative Adversarial Nets
 -----------------------------------
 > ##### https://github.com/hindupuravinash/the-gan-zoo
+> ##### Wasserstein GAN
+>> 1. https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i
+>> 2. http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
+>> 3. https://vincentherrmann.github.io/blog/wasserstein/
 
 Optimzer
 --------
