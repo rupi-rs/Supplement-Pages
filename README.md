@@ -41,6 +41,10 @@ Generative Adversarial Nets
 >> 2. http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 >> 3. https://vincentherrmann.github.io/blog/wasserstein/
 
+Variational Auto Encoder
+------------------------
+> 1. http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html
+
 Convolution
 -----------
 > 1. Convolution Arithmetic : https://arxiv.org/abs/1603.07285
