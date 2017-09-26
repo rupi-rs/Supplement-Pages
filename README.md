@@ -54,6 +54,8 @@ Convolution
 Optimzer
 --------
 > ##### http://ruder.io/optimizing-gradient-descent/index.html
+> Gradient clipping
+>> https://stackoverflow.com/questions/36498127/how-to-effectively-apply-gradient-clipping-in-tensor-flow
 
 Tensorflow install
 ------------------
