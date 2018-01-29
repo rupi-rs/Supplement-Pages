@@ -61,7 +61,10 @@ Optimzer
 
 Tensorflow install
 ------------------
-> ##### http://ejklike.github.io/2017/03/06/install-tensorflow1.0-on-ubuntu16.04-1.html
+> Install
+>> ##### http://ejklike.github.io/2017/03/06/install-tensorflow1.0-on-ubuntu16.04-1.html
+> TFRecord
+>> ##### http://www.machinelearninguru.com/deep_learning/tensorflow/basics/tfrecord/tfrecord.html
 
 Github
 ------
