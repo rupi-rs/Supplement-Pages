@@ -51,6 +51,7 @@ Convolution
 > 2. https://github.com/vdumoulin/conv_arithmetic
 > 3. https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
 > 4. Padding : https://stackoverflow.com/questions/37674306/what-is-the-difference-between-same-and-valid-padding-in-tf-nn-max-pool-of-t
+> 5. Deconvolution : https://www.quora.com/How-do-you-calculate-the-output-dimensions-of-a-deconvolution-network-layer
 
 Optimzer
 --------
