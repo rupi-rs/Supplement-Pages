@@ -57,15 +57,17 @@ Optimzer
 --------
 > ##### http://ruder.io/optimizing-gradient-descent/index.html
 > ##### https://arxiv.org/pdf/1609.04747v2.pdf
-> Gradient clipping
->> https://stackoverflow.com/questions/36498127/how-to-effectively-apply-gradient-clipping-in-tensor-flow
 
-Tensorflow install
+Tensorflow 
 ------------------
 > Install
 >> ##### http://ejklike.github.io/2017/03/06/install-tensorflow1.0-on-ubuntu16.04-1.html
 > TFRecord
 >> ##### http://www.machinelearninguru.com/deep_learning/tensorflow/basics/tfrecord/tfrecord.html
+> Variable scope
+>> ##### https://stackoverflow.com/questions/35919020/whats-the-difference-of-name-scope-and-a-variable-scope-in-tensorflow
+> Gradient clipping
+>> https://stackoverflow.com/questions/36498127/how-to-effectively-apply-gradient-clipping-in-tensor-flow
 
 Github
 ------
