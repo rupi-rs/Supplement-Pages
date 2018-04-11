@@ -32,6 +32,7 @@ Batch Normalization, Layer Normalization
 ----------------------------------------
 > 1. https://theneuralperspective.com/2016/10/27/gradient-topics/
 > 2. http://sanghyukchun.github.io/88/
+> 3. https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
 
 Generative Adversarial Nets
 -----------------------------------
