@@ -19,6 +19,7 @@ Recurrent Neural Network
 > ##### Long Short Term Memory(LSTM)
 >> 1. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 >> 2. https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html
+>> 3. https://github.com/tensorflow/tensorflow/issues/15087
 
 Speech Recognition
 ------------------
