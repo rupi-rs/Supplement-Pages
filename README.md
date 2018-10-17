@@ -74,3 +74,4 @@ Tensorflow
 Github
 ------
 > ##### https://nolboo.kim/blog/2013/10/06/github-for-beginner/
+> ##### https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
