@@ -14,12 +14,12 @@ Neural networks and deep learning
 Recurrent Neural Network
 ------------------------
 * ##### Backpropagation Through Time(BPTT)
-  + 1. http://aikorea.org/blog/rnn-tutorial-3/
-  + 2. https://r2rt.com/styles-of-truncated-backpropagation.html
+  + http://aikorea.org/blog/rnn-tutorial-3/
+  + https://r2rt.com/styles-of-truncated-backpropagation.html
 * ##### Long Short Term Memory(LSTM)
-  + 1. http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-  + 2. https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html
-  + 3. https://github.com/tensorflow/tensorflow/issues/15087
+  + http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  + https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html
+  + https://github.com/tensorflow/tensorflow/issues/15087
 
 Speech Recognition
 ------------------
@@ -31,29 +31,29 @@ Softmax and Cross Entropy
 
 Batch Normalization, Layer Normalization
 ----------------------------------------
-* 1. https://theneuralperspective.com/2016/10/27/gradient-topics/
-* 2. http://sanghyukchun.github.io/88/
-* 3. https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
+* https://theneuralperspective.com/2016/10/27/gradient-topics/
+* http://sanghyukchun.github.io/88/
+* https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/
 
 Generative Adversarial Nets
 -----------------------------------
 * ##### https://github.com/hindupuravinash/the-gan-zoo
 * ##### Wasserstein GAN
-  + 1. https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i
-  + 2. http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
-  + 3. https://vincentherrmann.github.io/blog/wasserstein/
+  + https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i
+  + http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
+  + https://vincentherrmann.github.io/blog/wasserstein/
 
 Variational Auto Encoder
 ------------------------
-* 1. http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html
+* http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html
 
 Convolution
 -----------
-* 1. Convolution Arithmetic : https://arxiv.org/abs/1603.07285
-* 2. https://github.com/vdumoulin/conv_arithmetic
-* 3. https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
-* 4. Padding : https://stackoverflow.com/questions/37674306/what-is-the-difference-between-same-and-valid-padding-in-tf-nn-max-pool-of-t
-* 5. Deconvolution : https://www.quora.com/How-do-you-calculate-the-output-dimensions-of-a-deconvolution-network-layer
+* Convolution Arithmetic : https://arxiv.org/abs/1603.07285
+* https://github.com/vdumoulin/conv_arithmetic
+* https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+* Padding : https://stackoverflow.com/questions/37674306/what-is-the-difference-between-same-and-valid-padding-in-tf-nn-max-pool-of-t
+* Deconvolution : https://www.quora.com/How-do-you-calculate-the-output-dimensions-of-a-deconvolution-network-layer
 
 Optimzer
 --------
