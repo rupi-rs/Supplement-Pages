@@ -70,6 +70,8 @@ Tensorflow
   + ##### https://stackoverflow.com/questions/35919020/whats-the-difference-of-name-scope-and-a-variable-scope-in-tensorflow
 * Gradient clipping
   + https://stackoverflow.com/questions/36498127/how-to-effectively-apply-gradient-clipping-in-tensor-flow
+* Custom gradient
+  + https://stackoverflow.com/questions/39048984/tensorflow-how-to-write-op-with-gradient-in-python
 
 Github
 ------
