@@ -77,6 +77,7 @@ Github
 ------
 * ##### https://nolboo.kim/blog/2013/10/06/github-for-beginner/
 * ##### https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+* ##### https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%99%80-Merge-%EC%9D%98-%EA%B8%B0%EC%B4%88
 
 
 Docker
