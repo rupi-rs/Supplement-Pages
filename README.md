@@ -85,3 +85,4 @@ Docker
 * ##### https://github.com/nsml-admin/ml/blob/master/tf-torch-cv/tf-1.11torch-0.4keras2.2cv3.4/Dockerfile
 * ##### https://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/
 * ##### http://pyrasis.com/Docker/Docker-HOWTO
+* ##### https://devyurim.github.io/python/tensorflow/development%20enviroment/docker/2018/05/25/tensorflow-3.html
